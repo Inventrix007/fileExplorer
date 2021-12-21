@@ -1,6 +1,7 @@
 ================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : 3455 Project Overview
 ===============================================================================
+Project name 3455 has no particular significance related to the code
 
 The application wizard has created this 3455 application for
 you.  This application not only demonstrates the basics of using the Microsoft
